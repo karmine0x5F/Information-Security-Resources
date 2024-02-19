@@ -9,8 +9,9 @@ Repository of resources for security researchers.
 - [MITRE ATT&CK®](https://attack.mitre.org/matrices/enterprise/)
 
 ## Blogs
-- https://blog.xpnsec.com/
-- https://elliotonsecurity.com/
+- [XPN's InfoSec Blog](https://blog.xpnsec.com/)
+- [Elliot on Security](https://elliotonsecurity.com/)
 
-## Malware Development
-- https://maldevacademy.com/
+## Malware Research
+- [VX Underground](https://vx-underground.org/)
+- [MalDev Academy](https://maldevacademy.com/)
