@@ -15,3 +15,6 @@ Repository of resources for security researchers.
 ## Malware Research
 - [VX Underground](https://vx-underground.org/)
 - [MalDev Academy](https://maldevacademy.com/)
+
+## Bugs and Vulnerabilities
+- [CVE Records]https://www.cve.org/
