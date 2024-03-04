@@ -17,4 +17,4 @@ Repository of resources for security researchers.
 - [MalDev Academy](https://maldevacademy.com/)
 
 ## Bugs and Vulnerabilities
-- [CVE Records]https://www.cve.org/
+- [CVE Records](https://www.cve.org/)
