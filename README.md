@@ -18,3 +18,6 @@ Repository of resources for security researchers.
 
 ## Bugs and Vulnerabilities
 - [CVE Records](https://www.cve.org/)
+
+## Challenges
+- [OverTheWire](https://overthewire.org)
